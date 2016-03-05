@@ -1,7 +1,7 @@
 # PortScanner
 Author: Tanis Reed
 
-Usage: ./portScanner.py -h <hosts> -p <ports> [-u]
+Usage: ./portScanner.py -h [hosts] -p [ports] optional-->[-u] 
 
 *Hosts and ports are required, and -u option will tell the scanner to do a UDP scan as well as a TCP Syn scan.
 *Hosts can be a comma-separated list of hosts, or a text file containing a list of hosts.
